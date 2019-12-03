@@ -3,8 +3,11 @@ public class helloworld{
         for(int i=0;i<=10;i++){
             System.out.println("Hallo Dunia");
         }
-        while(int a<=9){
-            System.out.println("How are you today ? :D");
+        int i =0;
+        if(i=0){
+            System.out.println("How Are You today ?");  
+        }else{
+            System.out.println("Youre so good");
         }
     }
 }
