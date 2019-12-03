@@ -4,10 +4,13 @@ public class helloworld{
             System.out.println("Hallo Dunia");
         }
         int i =0;
-        if(i=0){
-            System.out.println("How Are You today ?");  
-        }else{
-            System.out.println("Youre so good");
+        for(int a=0;a<5;a++){
+            if(i=0){
+                System.out.println("How Are You today ?");  
+            }else{
+                System.out.println("Youre so good");
+            }
         }
+        
     }
 }
